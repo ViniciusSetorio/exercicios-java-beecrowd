@@ -8,7 +8,7 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
  */
 
-package Exercicio18.Exercicio17;
+package Exercicio18;
 
 import java.io.IOException;
 import java.util.Scanner;
